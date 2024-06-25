@@ -1,0 +1,8 @@
+사용법
+npx create-react-app <your_project_name>
+npx create-react-app my-app
+
+vscode terminal 혹은 명령 프롬프트에서 선행작업 필요.
+
+$ npm install -g create-react-app // 18이상
+$ npx create-react-app my-app  // 18이상

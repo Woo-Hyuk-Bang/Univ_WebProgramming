@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+// script 태그를 fix_html_3처럼 아래에 삽입하면 HTML 표준에 어긋나며
+// HTML 페이지의 규모가 클 때 유지 보수가 어렵다 -> 이벤트 기능을 활용
+<html>
+    <head>
+        <title>
+            Document Object Model
+        </title>
+        <script> 
+            window.onload = function(){
+                // h1 태그의 배경 색상 변경
+                document.querySelector('h1').style.backgroundColor = 'red';                
+            
+                // h2 태그의 글자 색상을 변경
+                document.querySelector('h2').style.backgroundColor = 'red';
+            }  
+        </script>
+    </head>
+    <body>
+        <h1>Process -1 </h1>
+        <h2>Process - 2</h2>
+    </body>
+</html>
