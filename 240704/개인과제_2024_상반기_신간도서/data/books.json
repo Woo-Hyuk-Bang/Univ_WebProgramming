@@ -1,0 +1,64 @@
+[
+    {
+      "month": "1월",
+      "books": [
+        {
+          "title": "업무와 일상을 업시키는 16가지 생성형 AI 활용",
+          "author": "장문철",
+          "publisher": "앤써북",
+          "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791193059173.jpg"
+        }
+      ]
+    },
+    {
+      "month": "2월",
+      "books": [
+        {
+          "title": "생성형 AI 업무 혁신",
+          "author": "윤가희/박찬규",
+          "publisher": "위키북스",
+          "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158394851.jpg"
+        }
+      ]
+    },{
+      "month": "3월",
+      "books": [
+        {
+          "title": "삶의 무기가 되는 생성형 AI",
+          "author": "유장휴",
+          "publisher": "부크크(Bookk)",
+          "cover": "https://image.yes24.com/goods/125228830/XL"
+        }
+      ]
+    },{
+        "month": "4월",
+        "books": [
+          {
+            "title": "읽기 쉬운 코드 - 더 좋은 코드를 작성하는 좋은 개발자 습관",
+            "author": "마크 시먼/김현규",
+            "publisher": "길벗",
+            "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791140708963.jpg"
+          }
+        ]
+    }, {
+        "month": "5월",
+        "books": [
+          {
+            "title": "Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린",
+            "author": "강성윤",
+            "publisher": "이지스퍼블리싱",
+            "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163036012.jpg"
+          }
+        ]
+    },{
+        "month": "6월",
+        "books": [
+          {
+            "title": "커리어 스킬업 파이썬 업무 자동화",
+            "author": "손워준",
+            "publisher": "길벗",
+            "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791140713899.jpg"
+          }
+        ]
+    }
+  ]
